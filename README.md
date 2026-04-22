@@ -1,2 +1,2 @@
-# voxa-privacy
+# voxa privacy
 voxa privacy
